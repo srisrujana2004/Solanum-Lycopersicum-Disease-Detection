@@ -1,8 +1,4 @@
 # Solanum-Lycopersicum-Disease-Detection
 
-Solanum lycopersicum, commonly known as the tomato, is indeed a species of flowering plant in the nightshade family, Solanaceae. The repository contains code for training an AlexNet model on a dataset of labeled tomato images representing different disease classes. The trained model can then classify diseases in new tomato images, aiding in early disease detection and crop management.
+This repository focuses on disease detection in Solanum lycopersicum, commonly known as the tomato. It includes code for training an AlexNet model using a dataset of labeled tomato diseases, encompassing various classes. Leveraging this trained model, users can classify diseases in new tomato images, facilitating early disease detection and effective crop management practices.
 
-Key Features:
-
-Utilizes deep learning techniques with AlexNet architecture for disease detection in tomato plants.
-Dataset includes 10 disease classes and one healthy class 
