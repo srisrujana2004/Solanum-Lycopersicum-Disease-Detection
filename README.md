@@ -2,7 +2,7 @@
 
 ### 📌 Project Overview
 - Developed and trained a **Convolutional Neural Network** using the **AlexNet architecture** to detect **tomato leaf diseases**.
-- Achieved **97% classification accuracy** on a dataset of **11,792 images** with effective **image preprocessing and augmentation**.
+- Achieved ** 98.83% classification accuracy** on a dataset of **11,792 images** with effective **image preprocessing and augmentation**.
 - Built an intuitive **Flask-based web application** allowing users to upload images and receive real-time disease predictions.
 
 ### 🧠 Key Features
